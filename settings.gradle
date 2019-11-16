@@ -1,0 +1,5 @@
+rootProject.name = 'homicides'
+include 'common'
+include 'application'
+include 'configuration'
+
