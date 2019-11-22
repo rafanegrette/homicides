@@ -2,4 +2,8 @@ rootProject.name = 'homicides'
 include 'common'
 include 'application'
 include 'configuration'
+include 'adapters'
+include 'persistence'
+include 'persistence'
+include 'persistence'
 
